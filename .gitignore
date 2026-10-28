@@ -1,0 +1,10 @@
+build/
+build.log
+cmake-build-*/
+.cache/
+.vscode/
+.idea/
+.DS_Store
+compile_commands.json
+*.zip
+data/raw/
